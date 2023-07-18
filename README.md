@@ -6,7 +6,7 @@ The program prompts the user for input and generates a SVG based on the answers 
 
 ## Walkthrough
 
-Link: 
+Link: https://drive.google.com/file/d/1OrzeZGCkKdOkvsjq_uHWMtJyQL6XHTVW/view 
 
 ## License
 
